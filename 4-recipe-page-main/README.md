@@ -30,8 +30,8 @@ This project focuses on modern and clean web development practices. Key features
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/mohammad11jj/frontendmentor-challenges/tree/main/4-recipe-page-main))
+- Live Site URL: [Add live site URL here](https://4-recipe-page-main-fv23jiref-mohammad-jalalis-projects.vercel.app/)
 
 ## My process
 
